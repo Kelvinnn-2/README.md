@@ -4,7 +4,7 @@
 </div>
 
 ### Hi there 👋
-I am Kelvin Ee from Bukit Mertajam, Penang and I am currently a Year 3 Data Engineering students at University Technology Malaysia.
+I am Kelvin Ee from Bukit Mertajam, Penang and I am currently a Year 3 Data Engineering student at University Technology Malaysia.
 
 ---
 ### :woman_technologist: About Me :
