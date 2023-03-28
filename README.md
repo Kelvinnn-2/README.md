@@ -45,3 +45,4 @@
  ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Kelvinnn-2?template=classic&config.timezone=Asia%2FKuala_Lumpur)
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kelvinnn-2&count_private=true&show_icons=true&theme=tokyonight"/>
+<div class="div3"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvinnn-2&theme=dark"/></div>
