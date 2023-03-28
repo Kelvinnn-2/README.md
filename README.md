@@ -42,3 +42,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97009588/226450088-e9bdebd6-f8e2-4669-96d7-896da4eed3c9.png" alt="bootstrap" width="150" height="100"/>
 </p>
 
+ ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/yejui626?template=classic&config.timezone=Asia%2FKuala_Lumpur)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kelvinnn-2&count_private=true&show_icons=true&theme=tokyonight"/>
