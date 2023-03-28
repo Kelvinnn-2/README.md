@@ -35,11 +35,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 </div>
+
 <h4 align="left"> 📊 Data Visualization:</h4>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97009588/226449629-a825a139-f355-4ee7-b742-e8d204cac72e.png" alt="bootstrap" width="150" height="100"/>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97009588/226450088-e9bdebd6-f8e2-4669-96d7-896da4eed3c9.png" alt="bootstrap" width="150" height="100"/>
 </p>
----
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peiyu00)](https://git.io/streak-stats)
+
