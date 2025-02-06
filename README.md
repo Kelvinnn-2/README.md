@@ -7,8 +7,8 @@
 <img align="right" width="30%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 📆 22/06/2001
-- 👯 I’m currently study at University Technology Malaysia
-- 🌱 I’m currently learning application development
+- 👯 I’m graduated at University Technology Malaysia
+- 🌱 I’m currently working as a Data Engineer Analyst in PPG.
 - ⚡ In my free time, I like to watch movies.
 - 💬 Ask me anything that you are interested about me
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kelvinee-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-ee-862909255/) <a href="mailto:kelvinee2001@gmail.com"><img src="https://img.shields.io/badge/kelvinee2001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
